@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{C74A02D1-DC12-4EED-916D-823D90C4D5FF}|Default">
+  <MonoDevelop.Ide.ItemProperties.BestSellingBooksCRUD PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BestSellingBooksCRUD/appsettings.json">
+    <Files>
+      <File FileName="BestSellingBooksCRUD/Controllers/HomeController.cs" Line="25" Column="1" />
+      <File FileName="BestSellingBooksCRUD/Startup.cs" Line="1" Column="1" />
+      <File FileName="BestSellingBooksCRUD/appsettings.json" Line="14" Column="1" />
+      <File FileName="BestSellingBooksCRUD/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BestSellingBooksCRUD" expanded="True">
+            <Node name="BestSellingBooksCRUD" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/kanavarora/Development/Georgian/Social Data Mining/BestSellingBooksCRUD/BestSellingBooksCRUD/Program.cs" relfile="BestSellingBooksCRUD/Program.cs" line="26" column="1" />
+      <Catchpoint enabled="false" exceptionName="System.Exception" includeSubclasses="True" />
+      <Breakpoint enabled="false" file="/Users/kanavarora/Development/Georgian/Social Data Mining/BestSellingBooksCRUD/BestSellingBooksCRUD/Program.cs" relfile="BestSellingBooksCRUD/Program.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
